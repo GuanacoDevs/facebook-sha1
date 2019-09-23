@@ -4,6 +4,7 @@ Meant to be run in Linux Mint or derivatives
 Requires:
 - `xclip` to be installed, so you can get your RELEASE key straight from the clipboard.
 - Android Studio for linux with an ordinary install
+> Blockquote This is a blockquote
 
 Usage:
 Copy your 'SHA-1 certificate fingerprint' using the button to the right from your Play Console.
