@@ -10,7 +10,7 @@ Requires:
 Usage:
 Your 'SHA-1 certificate fingerprint' can be found in your Google Play Console in your app section:
 
-> Blockquote _Release Management>App Signing>App Certificate_
+> *Release Management>App Signing>App Certificate*
 > Copy your 'SHA-1 certificate fingerprint' using the button to the right from your Play Console.
 > The script expects the 'SHA-1 certificate fingerprint' as only argument.
 
