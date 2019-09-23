@@ -1,4 +1,4 @@
-# facebook-sha1
+# SHA1 Converter for Facebook and Android
 
 This little script will return your DEBUG key and your RELEASE key needed for an android Facebook app.
 Meant to be run in Linux Mint or derivatives
